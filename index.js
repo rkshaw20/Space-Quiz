@@ -42,7 +42,7 @@ var questions = [
     answer: "Sputnik 1",
   }, {
     question: "First aircraft to leave our solar system?",
-    answer: " Voyager 1"
+    answer: "Voyager 1"
   }
 ]
 function game() {
