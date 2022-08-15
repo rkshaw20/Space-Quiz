@@ -43,6 +43,21 @@ var questions = [
   }, {
     question: "First aircraft to leave our solar system?",
     answer: "Voyager 1"
+  }, {
+    question: "What is the most powerful rocket of spaceX?",
+    answer: "Starship"
+  }, {
+    question: "Closest star to the Earth?",
+    answer: "Alpha Centuria"
+  }, {
+    question: "Age of the Earth?",
+    answer: "4.5 B"
+  }, {
+    question: "Age of our sun?",
+    answer: "4.6 B"
+  }, {
+    question: "Age of our moon?",
+    answer: "4.5 B"
   }
 ]
 function game() {
